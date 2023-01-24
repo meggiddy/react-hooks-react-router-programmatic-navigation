@@ -43,6 +43,7 @@ function Navbar({ setIsLoggedIn }) {
       >
         About
       </NavLink>
+
       <NavLink
         to="/login"
         exact
